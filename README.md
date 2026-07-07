@@ -7,6 +7,12 @@ A Streamlit‑based application that helps you migrate rows from a source CSV to
 
 ---
 
+## live app at:
+https://ai-powered-data-migration-tool-zq9qjlfre674q9zxpec9rw.streamlit.app/
+
+## live app without AI:
+https://migrationtoolsnigdh.streamlit.app/
+
 ## Features
 
 - **Interactive row‑by‑row migration** – Process rows from the source file sequentially.
