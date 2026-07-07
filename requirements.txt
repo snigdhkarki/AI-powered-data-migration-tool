@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+streamlit-aggrid
+google-generativeai
